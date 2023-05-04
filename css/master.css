@@ -1,0 +1,137 @@
+header{
+    border: 1px solid black;
+    clear:both;
+} 
+
+body{
+    margin-left: 0;
+    margin-top:  0;
+    margin-right: 0;
+}
+
+ ul.topics,li.topics,ul.trend,li.trend{
+     display: inline-block;
+}
+
+section.trends ul.trend li.trend{
+     margin-left: 10px; 
+}
+
+li#one,li#two{
+    margin-left: 0;
+    border: white;
+    padding-left:0px;
+}
+
+ul.topics{
+    color:white;
+}
+
+li.topics{
+    margin-left: 40px; 
+}
+
+button.audio{
+    margin-left:900px; 
+}
+
+section.one{
+    width:35%;
+    float:left;
+    margin-left:10%;
+}
+
+
+section.two{
+    width:20%;
+    float:left;
+}
+
+section.three{
+    width:20%;
+    float:left;
+    margin-right:9%;
+}
+
+section.one,section.two,section.three{
+    padding-left:5px;
+}
+
+section.trends{
+    width:100%;
+}
+
+li.trend{
+    border-left: 2px solid gray;
+    padding-left: 10px;
+}
+
+h1{
+    font-size: 50px;
+    text-align:center;
+}
+
+img.logo{
+    width: 50px;
+    height: 50px;
+    position: absolute
+}
+
+img.fbi{
+    width: 500px;
+    height:300px;
+    margin-left:50px;
+}
+
+img.tornado{
+    margin-left:35px;
+}
+
+img.diver{
+    margin-left:20px;
+}
+
+img.tank{
+    margin-left:35px;
+}
+
+nav{
+    background-color:black;
+}
+
+span.one{
+    color:red;
+    margin-left:200px;
+}
+
+span.two{
+    color:red;
+    border-left: 2px solid gray;
+    padding-left: 10px;
+}
+
+h3{
+    border-top: 2px solid gray;
+}
+
+button.lg{
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+
+button{
+    color: white;
+    background-color: black;
+}
+
+button.search{
+    width: 30px;
+    height: 20px
+}
+
+img.search{
+    height:10px;
+    width:10px;
+}
